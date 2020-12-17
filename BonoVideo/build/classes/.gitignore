@@ -1,0 +1,12 @@
+/action/
+/applicationContext.xml
+/bean/
+/dao/
+/hibernate.cfg.xml
+/message_en_US.properties
+/message_zh_CN.properties
+/service/
+/springxml/
+/struts.xml
+/strutsxml/
+/util/
